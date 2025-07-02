@@ -41,12 +41,6 @@ Bienvenue sur mon profil GitHub !
 
 ---
 
----
-
-📊 **Statistiques GitHub**
-
-![Marwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DERBELAX&show_icons=true&theme=default&hide_title=true)
-
 📈 **Langages les plus utilisés**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DERBELAX&layout=compact&theme=default)
