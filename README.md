@@ -19,9 +19,9 @@ Bienvenue sur mon profil GitHub !
 💼 **Projets réalisés**  
 🌍 [BOOKI](https://github.com/DERBELAX/booki-starter-code/tree/P2-BOOKI) – Intégration responsive d’une page d’accueil pour une agence de voyage  
 🏗️ [Portfolio Sophie Bluel](https://github.com/DERBELAX/Portfolio-architecte-sophie-bluel/tree/projet-3) – Site dynamique avec inscription, authentification et gestion d’utilisateurs en JavaScript  
-🏠 [Kasa](https://github.com/DERBELAX/projet-5-Kasa) – Application web de location immobilière responsive avec React.js
-📝 [Tasks](https://github.com/DERBELAX/Tasks) – Application de gestion de tâches (CRUD) avec React, API, et stockage dynamique
+🏠 [Kasa](https://github.com/DERBELAX/projet-5-Kasa) – Application web de location immobilière responsive avec React.js  
 📚 [Mon Vieux Grimoire](https://github.com/DERBELAX/P6-Dev-Web-livres/tree/Mon-Vieux-Grimoire) – Backend d’un site de notation de livres avec Node.js (API REST, CRUD, sécurité)  
+📝 [Tasks](https://github.com/DERBELAX/Tasks) – Application de gestion de tâches (CRUD) avec React, API, et stockage dynamique  
 🖼️ [Portfolio personnel](https://marwaderbel.netlify.app/) – Site responsive avec React.js
 
 ---
